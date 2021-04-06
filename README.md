@@ -1,2 +1,2 @@
 # CodeShit
-A college lending an borrowing website
+A college lending and borrowing website
