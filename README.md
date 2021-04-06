@@ -6,7 +6,7 @@ A college lending and borrowing website
 This project requires a local host, i've used XAMPP because it has an inbuilt SQL module.
 
 
-the "XAMPP" file changes are not necessary unless you want to send emails via php. 
+The "XAMPP" file changes are not necessary unless you want to send emails via php. 
 
 sendmail.init path : "C:\xampp\sendmail\sendmail.init";
 php.init path : "C:\xampp\php\php.init"
