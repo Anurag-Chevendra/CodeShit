@@ -15,5 +15,5 @@ you need to enter your email and it's password in these files.
 
 i suggest restarting XAMPP once the above changes have been made. 
 
-Save your code in "XAMPP\htdocs" folder. 
+Save your code here: "XAMPP\htdocs" 
 
