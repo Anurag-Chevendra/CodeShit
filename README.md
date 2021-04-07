@@ -1,5 +1,5 @@
 # CodeShit
-A college lending and borrowing website
+A college book lending and borrowing website
 (php-html-css-js)
 
 ## *Setting up the environment...*
