@@ -1,6 +1,11 @@
 # CodeShit
 A college book lending and borrowing website
 (php-html-css-js)
+Contributors: 
+1)Anurag MaruthiKumar Chevendra
+2)Rigved Vikrant Kulkarni
+3)Mahita Makrant Samant
+4)Aaditya Laxman Mali
 
 ## *Setting up the environment...*
 This project requires a local host, i've used XAMPP because it has an inbuilt SQL module.
